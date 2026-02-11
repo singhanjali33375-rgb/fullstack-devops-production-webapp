@@ -1,0 +1,4 @@
+frontend-deployment.yaml
+backend-deployment.yaml
+service.yaml
+ingress.yaml
